@@ -44,18 +44,33 @@ Here are the technologies used in this project.
 
 ## 2 - Mobile - Index.
 
-![Page cadastro](https://github.com/itagabriel/nlw_mobile_web/blob/master/index.jpeg)
+![Page index](https://github.com/itagabriel/nlw_mobile_web/blob/master/index.jpeg)
 
-![Page sucessfull](https://github.com/itagabriel/nlw_mobile_web/blob/master/index2.jpeg)
+![Page index](https://github.com/itagabriel/nlw_mobile_web/blob/master/index2.jpeg)
 
 ## 3 - Mobile - Open Game.
-![Page sucessfull](https://github.com/itagabriel/nlw_mobile_web/blob/master/open_game2.jpeg)
+![Page open_game](https://github.com/itagabriel/nlw_mobile_web/blob/master/open_game2.jpeg)
 
 ## 4 - Mobile - Open Discord.
-![Page sucessfull](https://github.com/itagabriel/nlw_mobile_web/blob/master/open_discord.jpeg)
+![Page open_discord](https://github.com/itagabriel/nlw_mobile_web/blob/master/open_discord.jpeg)
 
 ## 4 - Mobile - Copy Discord.
-![Page sucessfull](https://github.com/itagabriel/nlw_mobile_web/blob/master/copy_discord.jpeg)
+![Page copy_discord](https://github.com/itagabriel/nlw_mobile_web/blob/master/copy_discord.jpeg)
+
+## Versioning
+ 
+1.0.0.0
+
+## 🎁 Referencies
+ 
+* Event Rocketseat - 08 de setembro a 16 de setembro.
+ 
+## 🎁 Authors
+ 
+* **Gabriel Ita**: @itagabriel (https://github.com/itagabriel)
+ 
+Please follow github and join us!
+Thanks to visiting me and good coding!
 
 
 
