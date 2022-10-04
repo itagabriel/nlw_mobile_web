@@ -14,10 +14,10 @@ Here are the technologies used in this project.
 
 ## 📋 Services Used
  
-* Github
-* Prisma
-* React
-* Expo Go
+>* Github
+>* Prisma
+>* React
+>* Expo Go
 
 * ⌨️ The bank
 >     db.sqlite3
